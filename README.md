@@ -1,0 +1,1 @@
+A (hopefully) series of very basic Java implementations of common design patterns, put together for learning purposes.
